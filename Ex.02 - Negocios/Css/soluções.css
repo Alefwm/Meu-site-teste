@@ -1,0 +1,140 @@
+body{
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 255, 255), rgb(255rgb(255, 255, 255), 255), black);
+}
+.linha-1{
+    position: relative;
+    top: -240px;
+}
+.cabeçalho{
+    background-color: black;
+    color:rgb(0, 0, 0);
+    top: -22px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(to right, rgb(14, 106, 39), rgb(4, 167, 47), rgb(0, 255, 247));
+}
+.quadro1{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    top: 100px;
+    left: 200px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+    
+}
+.bill{
+    border-radius: 50%;
+    box-shadow: 2px 2px 30px 2px greenyellow;
+    transition: transform 0.3s ease-in-out;
+}
+.quadro1 .p-bill{
+    position: relative;
+    top: -300px;
+    left: 500px;
+}
+.quadro1 .p-bill2{
+    position: relative;
+    top: -300px;
+    left: 450px;
+}
+.quadro{
+    position: relative;
+    width: 900px;
+    height: 400px;
+    top: -300px;
+    left: 200px;
+    background-color: black;
+    opacity:10%;
+    border-radius: 190px 15px 160px 200px;
+}
+.quadro1 h1{
+    position: relative;
+    top: -120px;
+    left: 400px;
+    font-size: 50px;
+}
+.quadro1 p{
+    position: relative;
+    top: -50px;
+    left: 400px;
+     
+}
+.linha-horizontal{
+    position: relative;
+    top: -100px;
+    left: 70px;
+    height: 1000px;
+    width: 1px;
+    background-color: black;
+}
+.linha-horizontal2{
+    position: relative;
+    top: -1050px;
+    left: 600px;
+    height: 1px;
+    width: 350px;
+    background-color: black;
+}
+.p1{
+position: relative;
+top: -720px;
+left: 650px;
+width: 300px;
+height: auto;
+}
+.p2{
+    position: relative;
+top: -1180px;
+left: 950px;
+
+}
+.icon-ca{
+    position: relative;
+    top: -1480px;
+    left: -100px;
+    width: 25px;
+    height: auto;
+}
+
+.icon-insta{
+    position: relative;
+    top: -1480px;
+    left: -90px;
+    width: 25px;
+    height: auto;
+}
+.icon-pessoa{
+    position: relative;
+    top: -1480px;
+    left: -80px;
+    width: 25px;
+    height: auto;
+}
+.icon-tele{
+    position: relative;
+    top: -1480px;
+    left: -70px;
+    width: 25px;
+    height: auto;
+}
+.icon-planet{
+    position: relative;
+    top: -1480px;
+    left: -60px;
+    width: 25px;
+    height: auto;
+}
+.URL{
+    position: relative;
+    top: -1700px;
+    left: 0px;
+    
+    
+}
+strong{
+    display: list-item;
+}
